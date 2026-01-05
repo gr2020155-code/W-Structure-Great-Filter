@@ -61,6 +61,8 @@ the cosmos is silent because **it cannot be otherwise**.
 **The Great Filter is not the end of intelligence.  
 The Great Filter is an invitation to accept PAN and transition to the next level of complexity.**
 
+[ (Phase Transition Model)](Phase_Transition_Algorithm.md)
+
 ---
 
 **Author:** Hrachya Danielyan  
